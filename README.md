@@ -2,7 +2,7 @@
 <tr>
 <td width="380" valign="top">
 
-<img src="asciiportrait.svg" width="360" alt="Van Dexter Balbuena">
+<img src="ascii_portrait.svg" width="360" alt="Van Dexter Balbuena">
 
 </td>
 <td valign="top">
