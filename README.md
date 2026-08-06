@@ -18,14 +18,10 @@
 - ☁️ Planning deployments and exploring cloud platforms like **Railway**
 - ⚡ Fun fact: I've built a library management system integrated with an AI chatbot to help locate books!
 
-<br>
-
 #### ⚡ Fun Facts About Me
 - <!-- TODO: add a fun fact -->
 - <!-- TODO: add a fun fact -->
 - <!-- TODO: add a fun fact -->
-
-<br>
 
 #### 📫 Reach out to me
 - Email: [balbuenadexter2@gmail.com](mailto:balbuenadexter2@gmail.com)
