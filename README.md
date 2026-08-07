@@ -24,13 +24,13 @@
 
 ### ⚡ Fun Facts About Me
 
-- <!-- TODO: add a fun fact -->
-- <!-- TODO: add a fun fact -->
-- <!-- TODO: add a fun fact -->
-
+- 🎬 **Avid Watcher:** When I'm stepping away from the screen, I'm usually hopping in front of another one to binge-watch my favorite movies and TV series.
+- 🌍 **Explorer & Foodie:** I have a huge curiosity for the world. I love traveling to new places, researching interesting topics, and tasting different cuisines whenever I get the chance.
+- 🎮 **Gamer:** I love unwinding and diving into video games, exploring virtual worlds, and taking on new in-game challenges.
+- 🎨 **Hidden Artistic Talent:** Before my IT journey began, I was an absolute master at drawing and frequently joined (and competed in) art competitions during my early school years!
 ### 📫 Reach out to me
 
-- Email: [balbuenadexter2@gmail.com](mailto:balbuenadexter2@gmail.com)
-- GitHub: [github.com/devbalbuena](https://github.com/devbalbuena)
-- <!-- TODO: add LinkedIn -->
-- <!-- TODO: add portfolio link -->
+- 📧 **Email:** [balbuenadexter2@gmail.com](mailto:balbuenadexter2@gmail.com)
+- 🐙 **GitHub:** [@devbalbuena](https://github.com/devbalbuena)
+- 💼 **LinkedIn:** [Dexter Balbuena](https://www.linkedin.com/in/dexter-balbuena-1285393b3)
+- 🌐 **Portfolio:** [balbuena-portfolio.vercel.app](https://balbuena-portfolio.vercel.app/)
