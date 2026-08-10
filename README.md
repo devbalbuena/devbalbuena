@@ -17,7 +17,6 @@
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-AI%20Automation-412991?style=flat-square&logo=openai&logoColor=white)
 
-
 ⚡ I've built a library management system integrated with an **AI chatbot** to help locate books, and I'm currently planning deployments and exploring cloud platforms like **Railway**.
 
 🧠 I like using AI tools to speed up my dev process — think code generation, debugging assistance, and automating repetitive tasks so I can focus on architecture and UI/UX.
