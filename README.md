@@ -2,10 +2,7 @@
 
 **Building web systems from database to deployment**
 
-🙋 **Pronouns:** He/Him
-🎓 I'm currently studying at **Father Saturnino Urios University**
-🛠️ I'm currently working on full-stack web applications, including multi-role platforms like **AskDocPH**
-🤖 I use **AI automation** in my workflow to build smarter and faster, from coding assistants to integrating AI chatbots into my projects
+🙋 **Pronouns:** He/Him 🎓 I'm currently studying at **Father Saturnino Urios University** 🛠️ I'm currently working on full-stack web applications, including multi-role platforms like **AskDocPH** 🤖 I use **AI automation** in my workflow to build smarter and faster, from coding assistants to integrating AI chatbots into my projects
 
 ### Languages and Tools
 
@@ -17,7 +14,14 @@
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-AI%20Automation-412991?style=flat-square&logo=openai&logoColor=white)
 
-⚡ I've built a library management system integrated with an **AI chatbot** to help locate books, and I'm currently planning deployments and exploring cloud platforms like **Railway**.
+## What I'm Building 🛠️
+
+I specialize in creating **end-to-end solutions** that solve real-world problems:
+
+- 🏥 **Healthcare Tech** — AskDocPH (Mental health teleconsultation platform), Kausap AI (AI mental health companion)
+- 📚 **Education & Content** — BookNook (Digital library with tiered subscriptions), CertiDraft (Certificate generation platform)
+- 🛒 **E-Commerce & B2B** — HapsayPrint (Print shop storefront), AccountPulse (SaaS account management)
+- 📊 **Productivity Tools** — TaskTracker, RareFinds, School Library Management System
 
 🧠 I like using AI tools to speed up my dev process — think code generation, debugging assistance, and automating repetitive tasks so I can focus on architecture and UI/UX.
 
