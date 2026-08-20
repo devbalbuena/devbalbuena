@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Van
+### Hi there 👋 I'm Van Dexter
 
 **Building web systems from database to deployment**
 
