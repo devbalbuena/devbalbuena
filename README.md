@@ -2,7 +2,7 @@
 
 **Building web systems from database to deployment**
 
-🙋 **Pronouns:** He/Him 🎓 I'm currently studying at **Father Saturnino Urios University** 🛠️ I'm currently working on full-stack web applications, including multi-role platforms like **AskDocPH** 🤖 I use **AI automation** in my workflow to build smarter and faster, from coding assistants to integrating AI chatbots into my projects
+🙋 **Pronouns:** He/Him 🎓 I'm currently studying at **Father Saturnino Urios University** 🛠️ I'm currently working on full-stack web applications, including multi-role platforms like **AskDocPH** and a lot more. 🤖 I use **AI automation** in my workflow to build smarter and faster, from coding assistants to integrating AI chatbots into my projects
 
 ### Languages and Tools
 
