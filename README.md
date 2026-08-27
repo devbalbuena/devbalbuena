@@ -10,6 +10,12 @@
   <i>Turning ideas into full-stack systems, one deploy at a time.</i>
 </p>
 
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+Hi, I'm Van — a full-stack developer based in Agusan del Norte, Philippines. I build multi-role web platforms end-to-end, from database schema to production deploy, and I like weaving AI automation into everyday workflows to ship faster without cutting corners. Healthcare booking systems, subscription libraries, print-shop dashboards — if it has a database and a UI, there's a good chance I've built something like it.
+
+<br clear="both">
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🧑‍💻 About Me
@@ -39,26 +45,23 @@ npx vanbalbuena
 
 ### 🛠️ Languages and Tools
 
-<p align="center"><b>Backend & Database</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="backend-icons" />
-</p>
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="backend-icons" />
 
-<p align="center"><b>Frontend & Styling</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="frontend-icons" />
-</p>
+**Frontend & Styling**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="frontend-icons" />
 
-<p align="center"><b>DevOps & Cloud</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,railway&theme=dark" alt="devops-icons" />
-</p>
+**DevOps & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,railway&theme=dark" alt="devops-icons" />
 
-<p align="center"><b>AI & Automation</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="ai-icons" />
-  <img src="https://img.shields.io/badge/-Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
-</p>
+**AI & Automation**
+<br>
+<img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" alt="openai" />
+<img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" alt="anthropic" />
+<sub>&nbsp;&nbsp;OpenAI • Claude (Anthropic)</sub>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
