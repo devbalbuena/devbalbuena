@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbalbuena&color=F97316&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devbalbuena?style=for-the-badge&color=EF4444&label=Followers&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-1a1a2e?style=for-the-badge&color=F7DF1E" alt="Status" />
+  <i>Turning ideas into full-stack systems, one deploy at a time.</i>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -61,84 +59,6 @@ npx vanbalbuena
   <img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="ai-icons" />
   <img src="https://img.shields.io/badge/-Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
 </p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 🚀 Featured Systems & Builds
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 AskDocPH</h3>
-      <p>Mental health teleconsultation platform with multi-role architecture (Patient, Doctor, Admin).</p>
-      <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Kausap AI</h3>
-      <p>AI-driven mental health companion offering conversational support and check-ins.</p>
-      <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 BookNook</h3>
-      <p>Digital library platform with tiered subscriptions and content management.</p>
-      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 CertiDraft</h3>
-      <p>Certificate generation platform for schools and organizations, built for bulk automation.</p>
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖨️ HapsayPrint</h3>
-      <p>Print shop storefront with order tracking, pricing tiers, and admin dashboard.</p>
-      <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 AccountPulse</h3>
-      <p>SaaS account management system with role-based access and usage analytics.</p>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>📂 More projects — TaskTracker, RareFinds, School Library Management System</summary>
-<br>
-
-- **TaskTracker** — Lightweight productivity and task management tool.
-- **RareFinds** — Niche marketplace concept for hard-to-find items.
-- **School Library Management System** — Cataloging, borrowing, and inventory system for schools.
-
-</details>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=radical&hide_border=true&background=1a1a2e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbalbuena&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center"><sub>⚠️ If these don't render right away, it's usually the shared free-tier service being rate-limited — refresh in a bit, or ask me about self-hosting your own instance on Vercel.</sub></p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
