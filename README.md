@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Van+Dexter;Full-Stack+Web+Developer;Building+from+Database+to+Deployment;AI+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=220&section=header&text=Van%20Dexter%20Balbuena&fontSize=50&fontColor=1a1a2e&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Enthusiast&descAlignY=58&descSize=20&descColor=1a1a2e" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbalbuena&color=f7df1e&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devbalbuena?style=flat-square&color=f7df1e&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Building+from+Database+to+Deployment+%F0%9F%9A%80;Multi-Role+Platforms+%7C+Laravel+%2B+Next.js;AI+Automation+into+Everyday+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devbalbuena&color=F97316&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devbalbuena?style=for-the-badge&color=EF4444&label=Followers&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-1a1a2e?style=for-the-badge&color=F7DF1E" alt="Status" />
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🧑‍💻 About Me
 
@@ -24,8 +28,6 @@ const vanDexter = {
 };
 ```
 
----
-
 ### 💻 Connect via Terminal
 
 ```bash
@@ -35,47 +37,32 @@ npx vanbalbuena
 
 <p align="center">🌐 Live portfolio → <a href="https://balbuena-portfolio.vercel.app/"><b>balbuena-portfolio.vercel.app</b></a></p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🛠️ Languages and Tools
 
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+<p align="center"><b>Backend & Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="backend-icons" />
 </p>
 
-**Frontend & Styling**
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<p align="center"><b>Frontend & Styling</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="frontend-icons" />
 </p>
 
-**DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<p align="center"><b>DevOps & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,railway&theme=dark" alt="devops-icons" />
 </p>
 
-**AI & Automation**
-<p>
-  <img src="https://img.shields.io/badge/-Claude%20AI-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<p align="center"><b>AI & Automation</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="ai-icons" />
+  <img src="https://img.shields.io/badge/-Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🚀 Featured Systems & Builds
 
@@ -134,24 +121,26 @@ npx vanbalbuena
 
 </details>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=radical&hide_border=true&background=1a1a2e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbalbuena&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devbalbuena&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
----
+<p align="center"><sub>⚠️ If these don't render right away, it's usually the shared free-tier service being rate-limited — refresh in a bit, or ask me about self-hosting your own instance on Vercel.</sub></p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### ⚡ Fun Facts About Me
 
@@ -160,18 +149,16 @@ npx vanbalbuena
 - 🎮 **Gamer:** I unwind by diving into video games, exploring virtual worlds, and taking on new challenges.
 - 🎨 **Artistic Background:** Before my IT journey began, I was deeply involved in drawing and competed in art competitions during my early school years!
 
----
-
 ### 📫 Reach out to me
 
 <p align="center">
-  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/devbalbuena"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/devbalbuena"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">💡 <b>Always open to collaborating on interesting projects!</b> Feel free to reach out if you'd like to build something together.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=100&section=footer" alt="footer" />
