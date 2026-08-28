@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Building+from+Database+to+Deployment+%F0%9F%9A%80;Multi-Role+Platforms+%7C+Laravel+%2B+Next.js;AI+Automation+into+Everyday+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Multi-Role+Platforms+%7C+Laravel+%2B+Next.js;AI+Automation+into+Everyday+Workflows+%F0%9F%A4%96;Turning+Ideas+into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,13 +32,6 @@ const vanDexter = {
 };
 ```
 
-### 💻 Connect via Terminal
-
-```bash
-npx vanbalbuena
-```
-> *Publish a lightweight CLI on npm to make this live — until then, visit the portfolio link below.*
-
 <p align="center">🌐 Live portfolio → <a href="https://balbuena-portfolio.vercel.app/"><b>balbuena-portfolio.vercel.app</b></a></p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -59,9 +52,8 @@ npx vanbalbuena
 
 **AI & Automation**
 <br>
-<img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" alt="openai" />
-<img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" alt="anthropic" />
-<sub>&nbsp;&nbsp;OpenAI • Claude (Anthropic)</sub>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -76,7 +68,6 @@ npx vanbalbuena
 
 <p align="center">
   <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/devbalbuena"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
