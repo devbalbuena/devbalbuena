@@ -52,7 +52,8 @@ const vanDexter = {
 
 **AI & Automation**
 <br>
-<img src="https://skillicons.dev/icons?i=openai,claude&theme=dark" alt="ai-automation-icons" />
+<a href="https://openai.com"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" alt="OpenAI" /></a>
+<a href="https://claude.ai"><img height="50" src="https://avatars.githubusercontent.com/u/95949530" alt="Claude" /></a>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
