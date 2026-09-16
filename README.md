@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Minimalist Modern Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=68&descAlign=50" width="100%" alt="Header" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,12,24,30&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=68&descAlign=50" width="100%" alt="Header" />
 
-  <!-- Animated Typing Subheading -->
+  <br/>
+
+  <!-- Typing SVG -->
   <a href="https://balbuena-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Building+Multi-Role+Web+Platforms;Laravel+%2B+Next.js+%2B+TypeScript;Integrating+AI+into+Modern+Web+Systems;Turning+ideas+into+scalable+deploys." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Multi-Role+Web+Platforms;Laravel+%2B+Next.js+%2B+TypeScript;AI+Automation+%26+Modern+Web+Systems;Turning+ideas+into+scalable+deploys." alt="Typing SVG" />
   </a>
 
   <p>
