@@ -1,34 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=220&section=header&text=Van%20Dexter%20Balbuena&fontSize=50&fontColor=1a1a2e&animation=fadeIn" [...]
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Multi-Role+Platforms+%7C+Laravel+%2B+N[...]
-</p>
+  <!-- Minimalist Modern Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=68&descAlign=50" width="100%" alt="Header" />
 
-<p align="center">
-  <i>Turning ideas into full-stack systems, one deploy at a time.</i>
-</p>
+  <!-- Animated Typing Subheading -->
+  <a href="https://balbuena-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Building+Multi-Role+Web+Platforms;Laravel+%2B+Next.js+%2B+TypeScript;Integrating+AI+into+Modern+Web+Systems;Turning+ideas+into+scalable+deploys." alt="Typing SVG" />
+  </a>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+  <p>
+    <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  </p>
 
-Hi, I'm Van — a full-stack developer based in Agusan del Norte, Philippines. I build multi-role web platforms end-to-end, from database schema to production deploy, and I like weaving AI automation into high-performance applications. Currently building AskDocPH — an AI-powered platform connecting patients to healthcare experts.
+</div>
 
-<br clear="both">
+---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+### 👨‍💻 About Me
 
-### 🧑‍💻 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
+      <p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
+      <p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
+    </td>
+    <td width="40%" valign="top">
 
-```javascript
-const vanDexter = {
-  pronouns: "He/Him",
-  education: "Father Saturnino Urios University",
-  currentWork: "Full-stack web systems & multi-role platforms (AskDocPH)",
-  stackFocus: ["Laravel", "Next.js", "TypeScript", "Supabase", "PostgreSQL"],
-  specialty: "Integrating AI automation into high-performance web apps",
-  background: "Former competitive artist turned full-stack developer 🎨",
-  currentlyExploring: "Scalable architecture & AI-driven product features"
+```typescript
+const engineer = {
+  name: "Van Dexter",
+  role: "Full-Stack Dev",
+  focus: ["Laravel", "Next.js", "AI APIs"],
+  loves: ["Architecture", "Scalability", "Art"],
+  status: "Open to collaborate 🚀"
 };
 ```
 
