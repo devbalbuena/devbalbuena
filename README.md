@@ -21,32 +21,59 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="68%" valign="top">
+
 ### 👨‍💻 About Me
 
-<table style="table-layout:fixed; width:100%;">
-  <tr>
-    <td width="68%" valign="top">
-      <p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
-      <p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
-      <p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
-    </td>
-    <td width="32%" valign="top">
-      
-<div style="overflow-x:auto;">
-  
+<p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
+<p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
+<p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
+
+<br>
+
+### 🚀 Featured Projects
+
+**AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
+
+**Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
+
+<br>
+
+### ⚡ Fun Facts About Me
+
+- 🎬 **Avid Watcher:** When I step away from the screen, I'm usually hopping in front of another one to binge-watch movies and series.
+- 🌍 **Explorer & Foodie:** I love traveling to new places, researching niche topics, and tasting different cuisines.
+- 🎮 **Gamer:** I unwind by diving into video games, exploring virtual worlds, and taking on new challenges.
+- 🎨 **Artistic Background:** Before my IT journey began, I was deeply involved in drawing and competed in art competitions during my early school years!
+
+</td>
+
+<td width="32%" valign="top">
+
 ```typescript
 const engineer = {
   name: "Van Dexter",
   role: "Full-Stack Dev",
-  focus: ["Laravel", "Next.js", "AI APIs"],
-  loves: ["Architecture", "Scalability", "Art"],
+  focus: [
+    "Laravel",
+    "Next.js",
+    "AI APIs"
+  ],
+  loves: [
+    "Architecture",
+    "Scalability",
+    "Art"
+  ],
   status: "Open to collaborate 🚀"
 };
 ```
 
 <p align="center">🌐 Live portfolio → <a href="https://balbuena-portfolio.vercel.app/"><b>balbuena-portfolio.vercel.app</b></a></p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 ### 🛠️ Languages and Tools
 
@@ -67,32 +94,22 @@ const engineer = {
 <img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="48" height="48" alt="openai" />
 <img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/claude.svg" width="48" height="48" alt="claude" />
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 🚀 Featured Projects
-
-**AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
-
-**Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### ⚡ Fun Facts About Me
-
-- 🎬 **Avid Watcher:** When I step away from the screen, I'm usually hopping in front of another one to binge-watch movies and series.
-- 🌍 **Explorer & Foodie:** I love traveling to new places, researching niche topics, and tasting different cuisines.
-- 🎮 **Gamer:** I unwind by diving into video games, exploring virtual worlds, and taking on new challenges.
-- 🎨 **Artistic Background:** Before my IT journey began, I was deeply involved in drawing and competed in art competitions during my early school years!
+---
 
 ### 📫 Reach out to me
 
 <p align="center">
-  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a><br>
   <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p align="center">💡 <b>Always open to collaborating on interesting projects!</b> Feel free to reach out if you'd like to build something together.</p>
+
+</td>
+
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=100&section=footer" alt="footer" />
