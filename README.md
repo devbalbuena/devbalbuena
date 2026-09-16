@@ -25,12 +25,12 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="68%" valign="top">
       <p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
       <p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
       <p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
     </td>
-    <td width="40%" valign="top">
+    <td width="32%" valign="top">
 
 ```typescript
 const engineer = {
