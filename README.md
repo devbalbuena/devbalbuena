@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=220&section=header&text=Van%20Dexter%20Balbuena&fontSize=50&fontColor=1a1a2e&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=220&section=header&text=Van%20Dexter%20Balbuena&fontSize=50&fontColor=1a1a2e&animation=fadeIn" [...]
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Multi-Role+Platforms+%7C+Laravel+%2B+Next.js;Full-Stack+Web+Systems;AI+Automation+%26+Backend;Always+Learning%2C+Always+Building" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Multi-Role+Platforms+%7C+Laravel+%2B+N[...]
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-Hi, I'm Van — a full-stack developer based in Agusan del Norte, Philippines. I build multi-role web platforms end-to-end, from database schema to production deploy, and I like weaving AI automation into high-performance applications. Currently building [AskDocPH](https://askdocph.com) — an AI-powered platform connecting patients to healthcare experts.
+Hi, I'm Van — a full-stack developer based in Agusan del Norte, Philippines. I build multi-role web platforms end-to-end, from database schema to production deploy, and I like weaving AI automation into high-performance applications. Currently building AskDocPH — an AI-powered platform connecting patients to healthcare experts.
 
 <br clear="both">
 
@@ -54,6 +54,14 @@ const vanDexter = {
 <br>
 <img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="48" height="48" alt="openai" />
 <img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/claude.svg" width="48" height="48" alt="claude" />
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 🚀 Featured Projects
+
+**AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
+
+**Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
