@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">.
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
