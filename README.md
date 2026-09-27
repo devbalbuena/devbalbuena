@@ -105,11 +105,11 @@ const engineer = {
 
 **AI & Automation**
 <br>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
+<img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Anthropic Claude" />
+<img src="https://cdn.simpleicons.org/langchain/white" width="40" height="40" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
 
 ---
 
@@ -129,4 +129,4 @@ const engineer = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=100&section=footer&reversal=true" alt="footer" />
