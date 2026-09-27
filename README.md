@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
 
   <br/>
 
@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&ring=F97316&fire=EF4444&currStreakNum=F7DF1E&sideNums=A78BFA&currStreakLabel=F97316" alt="streak stats" />
 </p>
 
 <br>
@@ -106,7 +106,7 @@ const engineer = {
 **AI & Automation**
 <br>
 <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
-<img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="OpenAI" />
+<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="40" height="40" alt="OpenAI" />
 <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Anthropic Claude" />
 <img src="https://cdn.simpleicons.org/langchain/white" width="40" height="40" alt="LangChain" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
@@ -129,4 +129,4 @@ const engineer = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=100&section=footer&reversal=true" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=120&section=footer&reversal=true&animation=fadeIn" alt="footer" />
