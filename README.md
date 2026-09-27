@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,12,24,30&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=68&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <br/>
 
@@ -18,8 +18,6 @@
     <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
     <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=devbalbuena&style=flat-square&color=A78BFA&label=Profile+Views" alt="profile views" />
 
 </div>
 
@@ -49,12 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <br>
@@ -117,14 +115,6 @@ const engineer = {
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbalbuena&theme=algolia&no-frame=true&column=3&margin-w=8&margin-h=8&row=2" alt="trophies" />
-</p>
 
 ---
 
