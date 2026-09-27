@@ -10,12 +10,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Multi-Role+Web+Platforms;Laravel+%2B+Next.js+%2B+TypeScript;AI+Automation+%26+Modern+Web+Systems;Turning+ideas+into+scalable+deploys." alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p>
     <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
     <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=devbalbuena&style=flat-square&color=A78BFA&label=Profile+Views" alt="profile views" />
 
 </div>
 
@@ -39,6 +43,19 @@
 **AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
 
 **Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbalbuena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbalbuena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316" alt="streak stats" />
+</p>
 
 <br>
 
@@ -87,12 +104,27 @@ const engineer = {
 
 **DevOps & Cloud**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,railway&theme=dark" alt="devops-icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker&theme=dark" alt="devops-icons" />
+
+**Design & Testing**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress&theme=dark" alt="design-testing-icons" />
 
 **AI & Automation**
 <br>
-<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="48" height="48" alt="openai" />
-<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/claude.svg" width="48" height="48" alt="claude" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devbalbuena&theme=algolia&no-frame=true&column=3&margin-w=8&margin-h=8&row=2" alt="trophies" />
+</p>
 
 ---
 
