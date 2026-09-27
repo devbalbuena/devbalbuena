@@ -42,6 +42,16 @@
 
 **Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
 
+<details>
+<summary><b>See more projects</b></summary>
+<br>
+
+**AccountPulse** — *(add a short description of what this project does here)*
+
+**Your Next Project** — *(add another repo + description here as you build more)*
+
+</details>
+
 <br>
 
 ### 📊 GitHub Stats
@@ -49,6 +59,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&ring=F97316&fire=EF4444&currStreakNum=F7DF1E&sideNums=A78BFA&currStreakLabel=F97316" alt="streak stats" />
 </p>
+
+<br>
+
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
@@ -128,5 +145,13 @@ const engineer = {
 
 </tr>
 </table>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:F97316,100:EF4444&height=120&section=footer&reversal=true&animation=fadeIn" alt="footer" />
