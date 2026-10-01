@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Enthusiast&descFontSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:F97316,100:F7DF1E&height=170&section=header&text=Van%20Dexter%20Balbuena&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Web%20Platforms&descFontSize=18&descFontColor=F8FAFC" alt="header banner" width="100%" />
 
   <br/>
 
   <!-- Typing SVG -->
   <a href="https://balbuena-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Multi-Role+Web+Platforms;Laravel+%2B+Next.js+%2B+TypeScript;AI+Automation+%26+Modern+Web+Systems;Turning+ideas+into+scalable+deploys." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Multi-Role+Web+Platforms;Designing+Scalable+Systems;Shipping+AI+Driven+Products" alt="typing banner" />
   </a>
 
   <br/>
@@ -30,34 +30,56 @@
 
 ### 👨‍💻 About Me
 
-<p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
+<p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I design and build high-throughput, multi-role web applications from architecture to deployment, with a strong focus on performance, maintainability, and user-centric design.</p>
+
 <p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
-<p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
+
+<p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform that connects patients and medical specialists.</p>
 
 <br>
 
 ### 🚀 Featured Projects
 
-**AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
+<div align="left">
 
-**Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/AI-%23FF7A59?style=for-the-badge&logoColor=white" alt="AI" />
+      </td>
+      <td>
+        <b>AskDocPH</b><br>
+        AI-powered healthcare platform connecting patients to specialists and streamlining consultations through intelligent matching and support workflows.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Automation-%234F46E5?style=for-the-badge&logoColor=white" alt="Automation" />
+      </td>
+      <td>
+        <b>Kausap AI</b><br>
+        Conversational automation platform designed to improve customer engagement, support experiences, and digital interaction flows at scale.
+      </td>
+    </tr>
+  </table>
 
-<details>
-<summary><b>See more projects</b></summary>
-<br>
+  <details>
+    <summary><b>See more projects</b></summary>
+    <br>
+    <ul>
+      <li><b>AccountPulse</b> — business intelligence and monitoring platform focused on operational visibility.</li>
+      <li><b>Your Next Project</b> — building more AI and product experiences as the roadmap grows.</li>
+    </ul>
+  </details>
 
-**AccountPulse** — *(add a short description of what this project does here)*
-
-**Your Next Project** — *(add another repo + description here as you build more)*
-
-</details>
+</div>
 
 <br>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&ring=F97316&fire=EF4444&currStreakNum=F7DF1E&sideNums=A78BFA&currStreakLabel=F97316" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbalbuena&theme=tokyonight&hide_border=true&ring=F97316&fire=EF4444&currStreakNum=F7DF1E&sideNums=A78BFA&currStreakLabel=F97316" alt="GitHub Streak Stats" />
 </p>
 
 <br>
@@ -74,11 +96,13 @@
 - 🎬 **Avid Watcher:** When I step away from the screen, I'm usually hopping in front of another one to binge-watch movies and series.
 - 🌍 **Explorer & Foodie:** I love traveling to new places, researching niche topics, and tasting different cuisines.
 - 🎮 **Gamer:** I unwind by diving into video games, exploring virtual worlds, and taking on new challenges.
-- 🎨 **Artistic Background:** Before my IT journey began, I was deeply involved in drawing and competed in art competitions during my early school years!
+- 🎨 **Artistic Background:** Before my IT journey began, I was deeply involved in drawing and competed in art competitions during my early school years.
 
 </td>
 
 <td width="32%" valign="top">
+
+<div align="center" style="padding: 18px; border: 1px solid #27272a; border-radius: 18px; background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00)); box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
 
 ```typescript
 const engineer = {
@@ -98,35 +122,37 @@ const engineer = {
 };
 ```
 
+</div>
+
 <p align="center">🌐 Live portfolio → <a href="https://balbuena-portfolio.vercel.app/"><b>balbuena-portfolio.vercel.app</b></a></p>
 
 ---
 
 ### 🛠️ Languages and Tools
 
-**Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="backend-icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="backend-icons" />
+</p>
 
-**Frontend & Styling**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="frontend-icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" alt="frontend-icons" />
+</p>
 
-**DevOps & Cloud**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker&theme=dark" alt="devops-icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker&theme=dark" alt="devops-icons" />
+</p>
 
-**Design & Testing**
-<br>
-<img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress&theme=dark" alt="design-testing-icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress&theme=dark" alt="design-testing-icons" />
+</p>
 
-**AI & Automation**
-<br>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
-<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="40" height="40" alt="OpenAI" />
-<img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Anthropic Claude" />
-<img src="https://cdn.simpleicons.org/langchain/white" width="40" height="40" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/main/assets/icons/openai.svg" width="40" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Anthropic Claude" />
+  <img src="https://cdn.simpleicons.org/langchain/white" width="40" height="40" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
+</p>
 
 ---
 
