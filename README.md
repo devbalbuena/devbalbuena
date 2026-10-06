@@ -159,7 +159,7 @@ const engineer = {
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/devbalbuena/devbalbuena/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
 
 </div>
 
