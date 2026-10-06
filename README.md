@@ -65,6 +65,15 @@
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 October 2026 - To: 05 October 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
