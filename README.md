@@ -62,7 +62,6 @@
 
 <br>
 
-
 ### ⚡ Fun Facts About Me
 
 - 🎬 **Avid Watcher:** When I step away from the screen, I'm usually hopping in front of another one to binge-watch movies and series.
