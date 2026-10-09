@@ -129,12 +129,12 @@ const engineer = {
 
 ### 📫 Reach out to me
 
-<p align="center">
-  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Gmail-12151e?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a><br/>
-  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-12151e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a><br/>
-  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12151e?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a><br/>
-  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-12151e?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-</p>
+- ✉️ **Email:** [balbuenadexter2@gmail.com](mailto:balbuenadexter2@gmail.com)
+- 💼 **LinkedIn:** [/in/dexter-balbuena](https://www.linkedin.com/in/dexter-balbuena-1285393b3)
+- 🌐 **Portfolio:** [balbuena-portfolio](https://balbuena-portfolio.vercel.app/)
+- ⚡ **LeetCode:** [leetcode/@bWgkYMJtIA](https://leetcode.com/u/bWgkYMJtIA/)
+
+<br>
 
 <p align="center">💡 <b>Always open to collaborating on interesting projects!</b> Feel free to reach out if you'd like to build something together.</p>
 
