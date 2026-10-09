@@ -13,10 +13,10 @@
   <br/>
 
   <p>
-    <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+    <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Gmail-12151e?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-12151e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+    <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12151e?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+    <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-12151e?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
   </p>
 
 </div>
@@ -130,10 +130,10 @@ const engineer = {
 ### 📫 Reach out to me
 
 <p align="center">
-  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
-  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
-  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a><br>
-  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://img.shields.io/badge/Gmail-12151e?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a><br/>
+  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://img.shields.io/badge/LinkedIn-12151e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a><br/>
+  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12151e?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a><br/>
+  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://img.shields.io/badge/LeetCode-12151e?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 </p>
 
 <p align="center">💡 <b>Always open to collaborating on interesting projects!</b> Feel free to reach out if you'd like to build something together.</p>
