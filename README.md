@@ -30,27 +30,31 @@
 
 ### 👨‍💻 About Me
 
-<p>Hi, I'm <b>Van</b> — a full-stack engineer from Agusan del Norte, Philippines. I specialize in designing and engineering high-throughput, multi-role web applications from architecture to deployment.</p>
-<p>With an early background in competitive visual arts 🎨, I focus heavily on the intersection of clean system architecture, intuitive UI/UX, and AI automation.</p>
-<p>🌱 <i>Currently building:</i> <b>AskDocPH</b> — an intelligent healthcare consultation platform connecting patients and medical specialists.</p>
+<p>I'm a <b>full-stack developer</b> passionate about building scalable, user-centered digital products that solve real-world problems. I specialize in creating modern web and mobile applications with a focus on clean architecture, intuitive user experiences, and thoughtful product design. I enjoy working across the entire stack—from responsive frontends to robust backends—and I'm particularly drawn to projects that combine technical excellence with genuine impact.</p>
+
+<p><b>My interests include:</b></p>
+
+- 🌐 **Full-Stack SaaS Platforms** — Building complete, monetizable digital services
+- 🤖 **AI-Powered Applications** — Integrating intelligent features into user workflows
+- 🩺 **Healthcare & Wellness Tech** — Creating accessible, empathetic digital health solutions
+- 📱 **Mobile-First Design** — Crafting seamless experiences across devices
+- 🎯 **Product Thinking** — Balancing engineering rigor with user-focused delivery
 
 <br>
 
 ### 🚀 Featured Projects
 
-**AskDocPH** — AI-powered platform connecting patients to healthcare experts. Streamlines healthcare access through intelligent matching and real-time consultation.
+- 🧠 **[Kausap AI](https://github.com/devbalbuena/Kausap-AI)** — A comprehensive mental health companion app built with Flutter and Python. Features AI-driven therapeutic conversations, mood tracking, professional session booking, and wellness analytics to empower users on their mental health journey.
 
-**Kausap AI** — Conversational AI automation platform designed to enhance customer engagement and support services at scale.
+- 🎓 **[CertiDraft](https://github.com/devbalbuena/CertiDraft)** — A full-stack certificate generation platform built with Next.js & Supabase. Streamline credential issuance with a drag-and-drop designer, bulk CSV processing, AI-powered citations, automated email delivery, and cryptographically verifiable digital wallets.
 
-<details>
-<summary><b>See more projects</b></summary>
-<br>
+- 📚 **[BookNook](https://github.com/devbalbuena/BookNook)** — A full-stack digital library platform for managing and monetizing ebook collections. Features tiered subscription access, secure two-factor authentication, member engagement tracking, and a powerful admin dashboard for content and user management.
 
-**AccountPulse** — *(add a short description of what this project does here)*
+- 🖨️ **[HapsayPrint](https://github.com/devbalbuena/HapsayPrint)** — A complete digital storefront for local print shops. Enables customers to submit orders, upload files, and track status in real-time, while providing admins with rich analytics and workflow management.
 
-**Your Next Project** — *(add another repo + description here as you build more)*
+- 💳 **[AccountPulse](https://github.com/devbalbuena/AccountPulse)** — A web dashboard for managing developer accounts, tracking SaaS subscription billing, and monitoring API token expirations. Features visual analytics, countdown timers, and upcoming bill alerts.
 
-</details>
+- 🩺 **[AskDocPh](https://github.com/devbalbuena/AskDocPh)** — A full-stack mental health teleconsultation platform connecting patients with verified doctors for secure appointments, mood tracking, and community support.
 
 <br>
 
