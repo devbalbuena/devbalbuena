@@ -129,12 +129,12 @@ const engineer = {
 
 ### 📫 Reach out to me
 
-- ✉️ **Email:** [balbuenadexter2@gmail.com](mailto:balbuenadexter2@gmail.com)
-- 💼 **LinkedIn:** [/in/dexter-balbuena](https://www.linkedin.com/in/dexter-balbuena-1285393b3)
-- 🌐 **Portfolio:** [balbuena-portfolio](https://balbuena-portfolio.vercel.app/)
-- ⚡ **LeetCode:** [leetcode/@bWgkYMJtIA](https://leetcode.com/u/bWgkYMJtIA/)
-
-<br>
+<p align="center">
+  <a href="mailto:balbuenadexter2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dexter-balbuena-1285393b3"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://balbuena-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/bWgkYMJtIA/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" /></a>
+</p>
 
 <p align="center">💡 <b>Always open to collaborating on interesting projects!</b> Feel free to reach out if you'd like to build something together.</p>
 
